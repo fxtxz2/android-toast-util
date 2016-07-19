@@ -11,6 +11,8 @@ Toast弹出工具类
 # 使用
 ```Java
 ToastUtil.getInstance().showToast(getApplicationContext(), "显示内容");
+// 使用消息id方式
+ToastUtil.getInstance().showToast(getApplicationContext(), android.R.string.ok);
 ```
 
 # Gradle
