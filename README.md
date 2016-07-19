@@ -17,5 +17,5 @@ ToastUtil.getInstance().showToast(getApplicationContext(), android.R.string.ok);
 
 # Gradle
 ```Gradle
-
+compile 'com.zyl.androidtoastutil:androidtoastutil:0.0.1'
 ```
