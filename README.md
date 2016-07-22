@@ -1,4 +1,4 @@
-[![bintray](https://img.shields.io/bintray/v/zyl/maven/android-toast-util.svg)](https://bintray.com/zyl/maven/android-toast-util/_latestVersion)
+[![bintray](https://api.bintray.com/packages/zyl/maven/android-toast-util/images/download.svg)](https://bintray.com/zyl/maven/android-toast-util/_latestVersion)
 # android-toast-util
 Toast弹出工具类:避免Toast重复频繁显示
 
